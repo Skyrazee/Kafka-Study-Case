@@ -1,9 +1,10 @@
+# **Studi Kasus Apache Kafka**
+
 | Nama                    | NRP        |
 | ----------------------- | ---------- |
 | Muhammad Arsy Athallah   | 5027221048 |
 | Nur Azka Rahadiansyah | 5027221064 |
 
-# **Studi Kasus Apache Kafka**
 **Topik:** Pengumpulan Data Sensor IoT dengan Apache Kafka
 
 **Latar Belakang Masalah:**
